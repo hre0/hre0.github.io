@@ -23,9 +23,9 @@ repository               : "hre0/hre0.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Harry Rosas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Earth"
   #employer         : "Red Brick University"
   uri              : # URL
