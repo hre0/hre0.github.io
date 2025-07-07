@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home Page of Harry Rosas"
+title                    : "Homepage of Harry Rosas"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
