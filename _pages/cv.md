@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+{% include base_path/ResumeWithoutInfo.pdf %}
+
 Education
 ======
 * B.S. in Computer Science, Fordham University, 2024
