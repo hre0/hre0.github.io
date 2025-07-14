@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Fordham University University, 2024
+* B.S. in Computer Science, Fordham University, 2024
 
 Work experience
 ======
