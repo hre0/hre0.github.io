@@ -16,7 +16,6 @@ Education
 Work experience
 ======
 * Present: Sales Associate
-  * DJ II 
   * Duties includes: Updates and improvements to template
   
 Skills
