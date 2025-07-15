@@ -18,15 +18,6 @@
       "endDate": "Present",
     }
   ],
-  "skills": [
-    {"name": "Programming",
-    "keywords": "C++, Python, Java, JavaScript, HTML/CSS"
-    },
-    {"name": "Frameworks",
-    "keywords:" "Qt, Django, Django REST"},
-    {"name": "Databases & Cloud",
-    "keywords": "PostgreSQL, SQL, AWS RDS, AWS S3"}
-  ],
   "languages": [],
   "interests": [],
   "references": [],
@@ -46,5 +37,14 @@
       "description": "Developed a downloadable extension to create and manage notes, with support for downloading individual notes. 
 "
     },
+  ],
+    "skills": [
+    {"name": "Programming",
+    "keywords": "C++, Python, Java, JavaScript, HTML/CSS"
+    },
+    {"name": "Frameworks",
+    "keywords:" "Qt, Django, Django REST"},
+    {"name": "Databases & Cloud",
+    "keywords": "PostgreSQL, SQL, AWS RDS, AWS S3"}
   ]
 }
