@@ -10,18 +10,32 @@
       "courses": []
     }
   ],
-  "Work experience": [],
+  "work": [
+    { 
+      "name": "Diamond Jewelry II",
+      "date": "2020-Present",
+      "description": Sales associate 
+    }
+  ],
   "skills": [],
   "languages": [],
   "interests": [],
   "references": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "PawnTrack",
+      "category": "project",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+      "description": "Developed a software solution to manage pawn transactions, customer profiles, and item tracking for pawn shops, with support for ticket printing and reporting features."
+    },
+        {
+      "name": "Minimal Note",
+      "category": "project",
+      "date": "",
+      "url": "",
+      "description": "Developed a downloadable extension to create and manage notes, with support for downloading individual notes. 
+"
+    },
   ]
 }
