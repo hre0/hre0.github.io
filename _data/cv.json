@@ -12,9 +12,10 @@
   ],
   "work": [
     { 
-      "name": "Diamond Jewelry II",
-      "date": "2024",
-      "description": "Sales associate" 
+      "position": "Sales Associate",
+      "company": "Diamond Jewelry II",
+      "stateDate": "2020",
+      "endDate": ""
     }
   ],
   "skills": [],
