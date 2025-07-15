@@ -20,9 +20,12 @@
   ],
   "skills": [
     {"name": "Programming",
-    "keywords": "C++, Python, Java, JavaScript, HTML/CSS"},
-    {"name": "Frameworks"},
-    {"name": "Databases & Cloud"}
+    "keywords": "C++, Python, Java, JavaScript, HTML/CSS"
+    },
+    {"name": "Frameworks",
+    "keywords:" "Qt, Django, Django REST"},
+    {"name": "Databases & Cloud",
+    "keywords": "PostgreSQL, SQL, AWS RDS, AWS S3"}
   ],
   "languages": [],
   "interests": [],
