@@ -19,7 +19,7 @@
     }
   ],
   "skills": [
-    {"name": "Programming"
+    {"name": "Programming",
     "keywords": "C++, Python, Java, JavaScript, HTML/CSS"},
     {"name": "Frameworks"},
     {"name": "Databases & Cloud"}
