@@ -14,8 +14,8 @@
     { 
       "position": "Sales Associate",
       "company": "Diamond Jewelry II",
-      "stateDate": "2020",
-      "endDate": "Present"
+      "startDate": "2020",
+      "endDate": "Present",
     }
   ],
   "skills": [],
