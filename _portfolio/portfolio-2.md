@@ -5,6 +5,6 @@ collection: portfolio
 date: 2025-03-29
 ---
 
-Minimal Notepad is a google chrome extension for chrome browser note-taking. I developed this for personal use, as sometimes I find myself needing to type down information on a page, and also to work on my HTML/CSS/Javascript. It is downloadable via the google chrome extension store. https://chromewebstore.google.com/detail/minimal-notepad/pmkiddeebihbjpfjfphmodpfcfdnneag
+Minimal Notepad is a google chrome extension for chrome browser note-taking. I developed this for personal use, as sometimes I find myself needing to type down information on a page, and also to work on my HTML/CSS/Javascript. It is downloadable via the google chrome extension store. [Minimal Notepad](https://chromewebstore.google.com/detail/minimal-notepad/pmkiddeebihbjpfjfphmodpfcfdnneag)
 
 
