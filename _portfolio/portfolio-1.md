@@ -1,6 +1,6 @@
 ---
 title: "PawnTrack"
-excerpt: "A pawn shop software solution. <br/><img src='/images/PawnTrack.svg'>"
+excerpt: "A pawn shop software solution. <br/><img src='/images/PawnTrack.png'>"
 collection: portfolio
 date: 2025-08-01
 ---
