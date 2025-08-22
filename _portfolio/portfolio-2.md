@@ -1,6 +1,6 @@
 ---
 title: "Minimal Notepad"
-excerpt: "A google chrome extension for writing notes in browser. <br/><img src=''>"
+excerpt: "A google chrome extension for writing notes in browser. <br/><img src='chrome.png'>"
 collection: portfolio
 ---
 
